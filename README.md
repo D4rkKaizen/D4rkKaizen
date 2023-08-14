@@ -13,8 +13,6 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=D4rkKaizen&theme=dark&include_all_commits=true&count_private=true&show_icons=true)
 
-### Top Languages
-
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=D4rkKaizen&theme=dark&layout=compact)
 <!--
 CodeWars & LeetCode stats:
