@@ -1,5 +1,5 @@
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2880808&lines=D4rkKaizen+|+Change+to+the+best)
-![Omid Nikrah StackOverflow](https://github-readme-stackoverflow.vercel.app/?userID=6558042&theme=dark)
+
 ### Longest Streak Stats
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=D4rkKaizen)
