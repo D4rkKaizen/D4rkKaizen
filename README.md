@@ -5,7 +5,7 @@ Longest Streak Stats
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=D4rkKaizen)](https://git.io/streak-stats)
 
 
-Achievements
+Achievements \n
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=D4rkKaizen)](https://github.com/ryo-ma/github-profile-trophy)
 
