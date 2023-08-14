@@ -5,10 +5,10 @@
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=D4rkKaizen)
 
 
-### Achievements
+<!-- ### Achievements
 
 ![trophy](https://github-profile-trophy.vercel.app/?username=D4rkKaizen)
-
+-->
 ### Github Stats
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=D4rkKaizen)
@@ -16,13 +16,13 @@
 ### Top Languages
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=D4rkKaizen&layout=compact)
-
+<!--
 CodeWars & LeetCode stats:
 
 [![codewars](https://www.codewars.com/users/D4rkKaizen/badges/small)](https://www.codewars.com/users/D4rkKaizen)
 
 ![KnlnKS's LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=D4rkKaizen&theme=dark)
-
+-->
 
 
 
