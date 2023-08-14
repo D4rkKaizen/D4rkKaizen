@@ -2,7 +2,7 @@
 
 ### Longest Streak Stats
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=D4rkKaizen)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=D4rkKaizen&theme=dark)
 
 
 <!-- ### Achievements
