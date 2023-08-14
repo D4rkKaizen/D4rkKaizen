@@ -2,7 +2,7 @@
 
 ### Longest Streak Stats
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=D4rkKaizen&theme=dark&include_all_commits=true&count_private=true&show_icons=true)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=D4rkKaizen&theme=dark)
 
 
 <!-- ### Achievements
@@ -15,7 +15,7 @@
 
 ### Top Languages
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=D4rkKaizen&theme=dark&layout=compact&include_all_commits=true&count_private=true&show_icons=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=D4rkKaizen&theme=dark&layout=compact)
 <!--
 CodeWars & LeetCode stats:
 
