@@ -7,9 +7,9 @@
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=D4rkKaizen)](https://github.com/ryo-ma/github-profile-trophy)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=D4rkKaizen&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=D4rkKaizen)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=D4rkKaizen&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 [![codewars](https://www.codewars.com/users/D4rkKaizen/badges/small)](https://www.codewars.com/users/D4rkKaizen)
 
