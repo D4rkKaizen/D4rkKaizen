@@ -1,17 +1,19 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2880808&lines=D4rkKaizen+|+Change+to+the+best)](https://git.io/typing-svg)
 
-Longest Streak Stats
+###Longest Streak Stats
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=D4rkKaizen)](https://git.io/streak-stats)
 
 
-Achievements \n
+###Achievements
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=D4rkKaizen)](https://github.com/ryo-ma/github-profile-trophy)
 
+###Github Stats
+
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=D4rkKaizen)](https://github.com/anuraghazra/github-readme-stats)
 
-Top Languages
+###Top Languages
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=D4rkKaizen&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
