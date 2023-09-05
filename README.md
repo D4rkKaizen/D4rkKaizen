@@ -8,7 +8,7 @@
 <!-- ### Achievements
 
 ![trophy](https://github-profile-trophy.vercel.app/?username=D4rkKaizen)
--->
+
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=D4rkKaizen&theme=dark&include_all_commits=true&count_private=true&show_icons=true)
 
