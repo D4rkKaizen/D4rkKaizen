@@ -1,4 +1,4 @@
-![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2880808&lines=D4rkKaizen+|+Change+to+the+best)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2880808&lines=D4rkKaizen+|+Change+to+better)
 
 ### Longest Streak Stats
 
