@@ -4,4 +4,5 @@
 [![GitHub Streak](https://streak-stats.demolab.com/?user=D4rkKaizen&theme=dark)](https://git.io/streak-stats)
 
 "Everyday is an opportunity to improve, even it is only by 1%. It's not about being invincible, It's about being unstoppable" 
+
 © Kaizen - Japanese wisdom
