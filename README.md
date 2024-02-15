@@ -3,6 +3,6 @@
 ### Longest Streak Stats
 [![GitHub Streak](https://streak-stats.demolab.com/?user=D4rkKaizen&theme=dark)](https://git.io/streak-stats)
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=50&random=false&random=false&width=750&lines=%22Everyday+is+an+opportunity+to+improve%2C+even+it+is+only+by+1%25.+" alt="Typing SVG" /></a>
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=50&repeat=false&random=false&width=750&lines=It's+not+about+being+invincible%2C+It's+about+being+unstoppable%22+" alt="Typing SVG" /></a>
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&repeat=false&random=false&width=750&lines=%C2%A9+Kaizen+-+Japanese+wisdom" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=200&size=15&pause=1000&repeat=false&random=false&width=750&lines=%22Everyday+is+an+opportunity+to+improve%2C+even+it+is+only+by+1%25.+" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=200&size=15&pause=1000&repeat=false&random=false&width=750&lines=It's+not+about+being+invincible%2C+It's+about+being+unstoppable%22+" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=200&size=15&pause=1000&repeat=false&random=false&width=750&lines=%C2%A9+Kaizen+-+Japanese+wisdom" alt="Typing SVG" /></a>
