@@ -2,8 +2,9 @@
 
 ![D4rkKaizen's GitHub stats](https://github-readme-stats.vercel.app/api?username=D4rkKaizen&theme=tokyonight&show_icons=true)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=D4rkKaizen&theme=tokyonight&layout=compact)
-
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=200&size=15&pause=1000&repeat=false&random=false&width=750&lines=%22Everyday+is+an+opportunity+to+improve%2C+even+it+is+only+by+1%25.+" alt="Typing SVG" /></a>
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=200&size=15&pause=1000&repeat=false&random=false&width=750&lines=It's+not+about+being+invincible%2C+It's+about+being+unstoppable%22+" alt="Typing SVG" /></a>
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=200&size=15&pause=1000&repeat=false&random=false&width=750&lines=%C2%A9+Kaizen+-+Japanese+wisdom" alt="Typing SVG" /></a>
+<div align="center" style="display: flex; align-items: center;">
+  <h3>:hammer_and_wrench: Languages and Tools</h3>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" title="AWS" alt="AWS" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>&nbsp;
+</div>
