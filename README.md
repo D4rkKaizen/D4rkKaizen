@@ -3,10 +3,14 @@
 <img alt="Visitors" src="https://komarev.com/ghpvc/?username=D4rkKaizen&label=Profile%20Visits&style=for-the-badge" />
 
 <div align="center" style="display: flex; align-items: center;">
-  <h3>:hammer_and_wrench: Languages and Tools</h3>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" title="AWS" alt="AWS" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>&nbsp;
+  <h2>:hammer_and_wrench: Languages and Tools</h2>
+  <h3>Linux distros: </h3>
+  <img src="https://skillicons.dev/icons?i=linux,debian,arch,kali,mint,ubuntu," />
+  <h3>Programming languages: </h3>
+  <img src="https://skillicons.dev/icons?i=py,c,cpp" />
+  <h3>Tools: </h3>
+  <img src="https://skillicons.dev/icons?i=aws,bash,git,obsidian,vscode" />
+  
 </div>
 
 ![D4rkKaizen's GitHub stats](https://github-readme-stats.vercel.app/api?username=D4rkKaizen&theme=tokyonight&show_icons=true)
