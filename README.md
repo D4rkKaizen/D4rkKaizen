@@ -5,7 +5,7 @@
 <div align="center" style="display: flex; align-items: center;">
   <h2>:hammer_and_wrench: Languages and Tools</h2>
   <h3>Linux distros: </h3>
-  <img src="https://skillicons.dev/icons?i=linux,debian,arch,kali,mint,ubuntu," />
+  <img src="https://skillicons.dev/icons?i=debian,arch,kali,mint,ubuntu," />
   <h3>Programming languages: </h3>
   <img src="https://skillicons.dev/icons?i=py,c,cpp" />
   <h3>Tools: </h3>
