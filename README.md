@@ -7,9 +7,9 @@
   <h3>Linux distros: </h3>
   <img src="https://skillicons.dev/icons?i=debian,arch,kali,mint,ubuntu," />
   <h3>Programming languages: </h3>
-  <img src="https://skillicons.dev/icons?i=py,c,cpp" />
+  <img src="https://skillicons.dev/icons?i=py,c,bash,go" />
   <h3>Tools: </h3>
-  <img src="https://skillicons.dev/icons?i=aws,bash,git,obsidian,vscode" />
+  <img src="https://skillicons.dev/icons?i=aws,git,obsidian,vscode" />
 </div>
 
 <div align="center" style="display: flex; align-items: center;">
