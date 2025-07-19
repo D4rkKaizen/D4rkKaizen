@@ -2,18 +2,3 @@
 
 <img alt="Visitors" src="https://komarev.com/ghpvc/?username=D4rkKaizen&label=Profile%20Visits&style=for-the-badge" />
 
-<div align="center" style="display: flex; align-items: center;">
-  <h2>Languages and Tools</h2>
-  <h3>Linux distros: </h3>
-  <img src="https://skillicons.dev/icons?i=debian,arch,kali,mint,ubuntu," />
-  <h3>Programming languages: </h3>
-  <img src="https://skillicons.dev/icons?i=py,c,bash,go" />
-  <h3>Tools: </h3>
-  <img src="https://skillicons.dev/icons?i=aws,git,obsidian,vscode" />
-</div>
-
-<div align="center" style="display: flex; align-items: center;">
-  <h2>My stats</h2>
-</div>
-
-![D4rkKaizen's GitHub stats](https://github-readme-stats.vercel.app/api?username=D4rkKaizen&theme=tokyonight&show_icons=true)
